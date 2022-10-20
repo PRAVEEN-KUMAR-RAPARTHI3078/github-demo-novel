@@ -1,5 +1,5 @@
--- Swamy is one of the richest person in our group. He is also a good writer and comedy person.
--- Happy is one of the richest person and beautiful girl in our group.
--- Suresh is one of the hardest person. Everytime he is struggle with the money.
--- Parsha is one of the youngest person in our group. He is always calm and cool person. 
--- Ramababu is one of the person always thinking for the future purpose.
+-- 1. Swamy is one of the richest person in our group. He is also a good writer and comedy person.
+-- 2. Happy is one of the richest person and beautiful girl in our group.
+-- 3. Suresh is one of the hardest person. Everytime he is struggle with the money.
+-- 4. Parsha is one of the youngest person in our group. He is always calm and cool person. 
+-- 5. Ramababu is one of the person always thinking for the future purpose.
